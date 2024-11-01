@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codewinlab
 - 🌱 I’m currently uploading new projects with code in all programming language.
 - 💞️ I’m looking to collaborate with all the new global coders.
-- 👀 This Repo is dedicated for you guys.
+- 👀 This Repo is fully dedicated to you guys.
 - 📫 How to reach me ...
 - ⚡ Fun fact: coding is an art which often do the excercise of brain (think, understand, solve).
 
