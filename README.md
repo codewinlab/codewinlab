@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @codewinlab
-- 👀 I’m interested in coding projects.
-- 🌱 I’m currently uploading new projects with code.
-- 💞️ I’m looking to collaborate with all the global coders.
+- 🌱 I’m currently uploading new projects with code in all programming language.
+- 💞️ I’m looking to collaborate with all the new global coders.
+- 👀 This Repo is dedicated for you guys.
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: coding is an art which often do the excercise of brain (think, understand, solve).
 
 <!---
 codewinlab/codewinlab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
